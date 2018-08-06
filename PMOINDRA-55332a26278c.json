@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pmoindra-212507",
+  "private_key_id": "55332a26278cfa39067997ba91be5b9c311f3424",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfkRgP3aq3Kj8E\nkrsNxC7UmkRu/jflbyTm2iTvpwbEi1zi2ryE/fMSB7tjDY8t097kIyxC919WMwtN\ndrpNpsP5pJJmRYl2seBmSoMcrpwhNQy4BZ4VrXBw7/6cewWCKkdzHP82NwrnrfC5\nRukPXtbjCSMm6U7vWfd1S+mqx1qohjZ5o5sy0zJvC7X8p37OskOCECQ8y6c1AiWF\n8RZr/4m6AF1RGo0K2Ojmp92bhlEGHKO0sckv4z62jmePZ5xoZOMPRa5Agx/II3Kd\nOt3nuqyYzBiZWZCz9DE25iDGxd+0MRqaAb4UzrfZeJ+yPfMZHOpzLeE5fuOryfl9\nkQAsOI7PAgMBAAECggEATHnzO7YtqEOE1BkncJGcHXD6GOfQkiT/gBK+UNaXi5NK\nvnVpyKqgRBouATfJszkHRY48nVnGnJOQebq0B00VO+gOhnqiB97YLtWtXRnj4b4m\ncCrHxY2TaabHN5sjqr+wulGAgfi5O8B2GMMHhZEBPB/LjQuBS4JAkrjZoWhZfEzt\nV+7QzkmwB/6E8PIV6OSYk1Nkys9jtfyejYmA52FbUKy4nsLK6zkOR7lvCuXKzJGh\nSpIajzv2cSR2xxdQO2gVL2+HPZ5XAP0XrmaQ9BCgRiKmHgHPSQ0HlO+lgaPq10c6\nLCBB+ijoOHH6NEz95AV7dMw43cFBNroms6NCUw1QqQKBgQDvoUyozOKlfZN5Neyk\nqqQc7eES9U4KDfwlaFa9xrZRpf2DSwW2nUkVKQdfx0DjfKEm0URZZZsKj/Mxzwdi\nFU2N/IkljxshoJJSQCYCcTpbxOEWC7fj6JGhd2zZCaEJ3OughWbnGBhkd/7KvTbc\n988ok8rW6bBw+Vsr7SD3iA70WQKBgQDu1uBMnSscJ4ElI5n4699/h3Ujw7epr7Tv\nfkhM6HknhSJqn+GO0vbODQEvjYr9tIzrtu2kwnuGaEpOZ56c1EuNDikgwpAD9pD2\n8NS2QIt9v2pzTdbfmBejls694jp5jJblWoN8iX6RQc7xVhOjvRuiHN8HBfaTQ7y6\nXvzMRTpXZwKBgQC7HtGl3pf9cpn+RMWNsFKG5JqlGzjdUR5cd6WEe+9SwrO8GpFT\nkG7JP0iq2gUpnuCYV0FwLY9sKAxYELpLNSdigJj340/kambYI4+KyLAxiQPbGzt1\nlN5jn8Y3lPVTple4+XLpcj9Z9PnZhveYhUoW/ZGfUMye65juLDVaFbzXwQKBgQC3\nZ746Vv7B0fw0HtCf+9FWxxhG7IZfAZR5zImMtYBDvtKc+kVlPc9Uj1v3vkOba0hD\nwedffBELN47IAn4khEm3+cXPaFjbEj5jwrA1e/8iAxmljYKRlOOiNa5w1gZ9TF6b\npRQPUC4nMVfOr4DJXfCYXn9Nj2C32W5V15dc7VRNxQKBgGG2IFs9Bm9mfKDSo48j\nHZVXK3bv1nckQRCoTynlOrj7PllzYOf9nIZaOyWd5fI2E1GfxO565zu+4RyrZ/Hg\nf1ttvQoWiuL7auTRfOPKzLsncVthmdZXYytIKYYk6gCg0+qUPx3tR361/CRGd7AP\nx29xzL0tlWEHlJ0Q4eDUiRGI\n-----END PRIVATE KEY-----\n",
+  "client_email": "googleread@pmoindra-212507.iam.gserviceaccount.com",
+  "client_id": "114840884499977098016",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googleread%40pmoindra-212507.iam.gserviceaccount.com"
+}
