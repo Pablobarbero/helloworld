@@ -18,10 +18,9 @@ from tkinter import Tk, Canvas
 # as temporary.  For each move, call report()
 def hanoi(n, a, b, c, report):
     if n <= 0: return
-    hanoi(n-1, c, b, a, report)
-    report(n, a, b)
     hanoi(n-1, a, c, b, report)
-
+    report(n, a, b)
+    hanoi(n-1, c, b, a, report)
 
 # The graphical interface
 class Tkhanoi:
